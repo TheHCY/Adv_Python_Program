@@ -2,8 +2,8 @@
 Adv_Python_Program Asssignments
 
 # Course Details
-Course Name: Adv_Python_Program
-Professor: Nitin Alzende
+Course Name: Adv_Python_Program\
+Professor: Nitin Alzende\
 
 # Student Details 
 Name: Himanshu Choudhary\
