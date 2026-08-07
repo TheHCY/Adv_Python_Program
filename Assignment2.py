@@ -12,9 +12,6 @@ def report_format(function):
     return wrapper
 
 
-# -------------------------------
-# Report Class
-# -------------------------------
 
 class Report:
 
@@ -53,18 +50,13 @@ class Report:
     # Magic Method
     def __len__(self):
         return len(self.sections)
-
-
-# -------------------------------
-# Main Program
-# -------------------------------
+
 
 report = Report.sample_report()
 
 print(report)
 
 print("Total Sections :", len(report))
-
-#print()
+
 
 report.display()
